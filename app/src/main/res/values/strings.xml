@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Handling Units v1</string>
+    <string name="handling_units">Handling Units</string>
+    <string name="handling_unit">Handling Unit</string>
+    <string name="add_handling_unit">Add Handling Unit</string>
+    <string name="create_date">Create Date:</string>
+</resources>
